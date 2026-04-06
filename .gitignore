@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+build/
+.env*
+.DS_Store
+
+# Python / FastAPI
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
